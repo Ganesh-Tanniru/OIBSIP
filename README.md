@@ -3,6 +3,8 @@ Tasks done are:
 Task 3 : ATM Interface -> from Java Development Track
 Task 5 : Digital Library Management System -> from Java Development Track
 
+Oasis Infobyte Internship Projects:
+
  Task-3:
  ATM Interface:
  ---------------
@@ -222,8 +224,9 @@ Connected Spring Boot with MySQL
 Integrated frontend with backend REST APIs
 Practiced Git and GitHub
 Built a basic full-stack Java application
- Author
 
-Ganesh Tanniru
-
+Author
+Tanniru Venkata Ganesh
 B.Tech – Computer Science and Engineering
+
+Thank you to Oasis Infobyte for providing an opportunity to practice web development through hands-on projects.
