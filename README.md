@@ -229,4 +229,9 @@ Author
 Tanniru Venkata Ganesh
 B.Tech – Computer Science and Engineering
 
+GitHub Profile
+[View my GitHub profile]
+
+https://github.com/Ganesh-Tanniru/OIBSIP.git
+
 Thank you to Oasis Infobyte for providing an opportunity to practice web development through hands-on projects.
